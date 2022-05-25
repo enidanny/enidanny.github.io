@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-## 16.  Brief Intoduction to nRF21540 : Bluetooth LE FEM (Front-End-Module) for range extension
+## 16.  BLE RF 증폭기 (FEM) 소개 / Brief Intoduction to nRF21540 : Bluetooth LE FEM (Front-End-Module) for range extension
 
 ### 16.1 Reference link 
 
