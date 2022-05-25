@@ -1,5 +1,5 @@
 ---
-title: "BLE (16) - Brief Intoduction to nRF21540 : Bluetooth LE range extender"
+title: "BLE (16) - BLE RF 증폭기 (FEM) 소개 / Brief Intoduction to nRF21540 : Bluetooth LE range extender"
 categories:
   - BLE
 tags:
