@@ -20,6 +20,8 @@ toc_ads: true
 **Notice:** 각 자료에 대한 저작권 및 지적재산권 (Copyright)은 관련 링크 및 원본 포스트 작성자에게 있으며, 해당 자료를 토대로 재구성한 포스트에 대한 저작권은 필자에게 있으므로, 공부 목적 이외의 상업적 무단 배포를 금지합니다.
 {: .notice--info}
 
+>If you have any questions, feel free to ask me !!
+
 ---
 
 ## 포스팅 항목

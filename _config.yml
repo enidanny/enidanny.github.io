@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-KR"
-title                    : "임베디드 개발장이"
+title                    : "임베디드 개발장이 ~ Danny's Embedded Dev-log"
 title_separator          : "-"
-subtitle                 : #
+subtitle                 : "Danny's Embedded Dev-log"
 name                     : "Danny Kim"
 description              : # "메타 태그에 들어가는 영역"
 url                      : "https://enidanny.github.io/"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Danny Kim"
-  bio              : "비범한 재능으로 평범하게 살자"
+  bio              : "Let's Live an Ordinary Life with the Extraordinary Talents !!"
   avatar           : "/assets/images/my-avatar.png"
   location         : "South Korea"
   email            : "daewoong0102@naver.com"

@@ -18,6 +18,8 @@ toc_ads: true
 **Notice:** 각 자료에 대한 저작권 및 지적재산권 (Copyright)은 필자에게 있으므로, 공부 목적 이외의 상업적 무단 배포를 금지합니다.
 {: .notice}
 
+>If you have any questions, feel free to ask me !! (or just refer to DevZone websites 😁)
+
 ---
 
 ## 포스팅 항목
