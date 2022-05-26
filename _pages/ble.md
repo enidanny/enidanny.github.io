@@ -41,3 +41,4 @@ toc_ads: true
 * [BLE (13) - 블루투스 소식: Bluetooth 5.1](https://enidanny.github.io/ble/ble-bluetooth-news-51/)
 * [BLE (14) - 새로운 무선 오디오 시장의 시작: Bluetooth 5.2](https://enidanny.github.io/ble/ble-bluetooth-52/)
 * [BLE (15) - Bluetooth 5.3 에서 개선 및 추가된 BLE 기능](https://enidanny.github.io/ble/ble-bluetooth53/)
+* [BLE (16) - BLE RF 증폭기 (FEM) 소개](https://enidanny.github.io/ble/ble-range-extender-nrf21540/)
