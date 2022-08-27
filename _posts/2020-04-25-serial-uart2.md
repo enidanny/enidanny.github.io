@@ -5,6 +5,10 @@ categories:
 tags:
   - rules of serial
   - UART example
+  - 시리얼 통신
+  - 비동기식 시리얼 통신
+  - 펌웨어 개발
+  - UART
 toc: true
 toc_sticky: true
 ---

@@ -7,6 +7,9 @@ tags:
   - AIS2IH
   - I2C
   - STEVAL-MKI218V1
+  - 가속도 센서
+  - I2C 제어
+  - 노르딕 펌웨어 개발
 toc: true
 toc_sticky: true
 ---

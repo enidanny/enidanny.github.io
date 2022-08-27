@@ -6,6 +6,8 @@ tags:
   - nRF Command Line Tool
   - nrfjprog
   - memrd
+  - nrfjprog 명령어
+  - nRF 커맨드 라인
 toc: true
 toc_sticky: true
 ---

@@ -7,6 +7,10 @@ tags:
   - connection
   - advertising
   - scanning
+  - 저전력 블루투스
+  - BLE
+  - 무선 연결
+  - BLE 무선 연결
 toc: true
 toc_sticky: true
 ---

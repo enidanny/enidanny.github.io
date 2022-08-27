@@ -5,6 +5,8 @@ categories:
 tags:
   - Google Analytics 4
   - GA4
+  - 구글
+  - 구글 애널리틱스
 toc: true
 toc_sticky: true
 ---

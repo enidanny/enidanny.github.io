@@ -5,6 +5,9 @@ categories:
 tags:
   - serial communication
   - UART
+  - 시리얼 통신
+  - 비동기식 시리얼 통신
+  - 펌웨어 개발
 toc: true
 toc_sticky: true
 ---

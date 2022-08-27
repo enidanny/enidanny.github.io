@@ -5,6 +5,11 @@ categories:
 tags:
   - Bluetooth 5.1
   - Low Energy
+  - 저전력 블루투스
+  - 블루투스 5.1
+  - Direction Finding
+  - 실내 위치 측위
+  - AoA
 toc: true
 toc_sticky: true
 ---

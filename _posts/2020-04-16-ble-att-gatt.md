@@ -6,6 +6,10 @@ tags:
   - ATT
   - GATT
   - data structure
+  - 데이터 구조
+  - 저전력 블루투스
+  - BLE
+  - BLE 프로토콜 스택
 toc: true
 toc_sticky: true
 ---

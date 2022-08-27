@@ -4,6 +4,7 @@ categories:
   - Github Blog
 tags:
   - HowToStart
+  - 깃허브 블로그
 toc: true
 toc_sticky: true
 ---

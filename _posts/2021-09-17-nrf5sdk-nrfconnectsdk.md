@@ -6,6 +6,9 @@ tags:
   - nRF Connect SDK
   - RTOS
   - Zephyr
+  - 노르딕 펌웨어 개발
+  - 실시간 운영체제
+  - 제퍼
 toc: true
 toc_sticky: true
 ---

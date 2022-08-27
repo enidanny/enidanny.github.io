@@ -7,6 +7,10 @@ tags:
   - low power system
   - wireless communication
   - introduction
+  - 저전력 블루투스
+  - 블루투스
+  - 블루투스 4.0
+  - 저전력 무선 통신
 toc: true
 toc_sticky: true
 ---

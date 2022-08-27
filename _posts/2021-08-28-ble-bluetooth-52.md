@@ -8,6 +8,9 @@ tags:
   - Isochronous Channel
   - EATT
   - LEPC
+  - 블루투스 5.2
+  - 저전력 블루투스
+  - 무선 오디오 시스템
 toc: true
 toc_sticky: true
 ---

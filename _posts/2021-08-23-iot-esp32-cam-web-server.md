@@ -6,6 +6,9 @@ tags:
   - ESP32-CAM
   - AI Thinker
   - CCTV
+  - 비디오 스트리밍
+  - 카메라 모듈
+  - 가정용 CCTV
 toc: true
 toc_sticky: true
 ---

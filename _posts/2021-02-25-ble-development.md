@@ -6,6 +6,12 @@ tags:
   - nordic semiconductor
   - segger embedded studio
   - IDE
+  - 노르딕 펌웨어
+  - 노르딕
+  - 노르딕 펌웨어 개발
+  - SES
+  - 통합 개발환경
+  - nRF5 SDK
 toc: true
 toc_sticky: true
 ---

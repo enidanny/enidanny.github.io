@@ -6,6 +6,9 @@ tags:
   - mesh network
   - feature
   - concept
+  - 메시 네트워크
+  - 저전력 블루투스
+  - 블루투스 메시
 toc: true
 toc_sticky: true
 ---

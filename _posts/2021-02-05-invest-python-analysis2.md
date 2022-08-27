@@ -7,6 +7,10 @@ tags:
   - Stochastic
   - Python
   - Stock
+  - 데이터 분석
+  - 파이썬 주식 분석
+  - 파이썬 증권 분석
+  - 통계
 toc: true
 toc_sticky: true
 ---

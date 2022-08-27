@@ -7,6 +7,11 @@ tags:
   - nRF5 SDK 17.1.0
   - long range
   - PHY Coded
+  - 저전력 블루투스
+  - 노르딕
+  - 장거리 통신
+  - UART
+  - 시리얼 통신
 toc: true
 toc_sticky: true
 ---

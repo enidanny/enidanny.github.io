@@ -6,6 +6,8 @@ tags:
   - HowToStart
   - Jekyll
   - Ruby
+  - 루비
+  - 지킬
 toc: true
 toc_sticky: true
 ---

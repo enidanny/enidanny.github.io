@@ -6,6 +6,12 @@ tags:
   - Maximum Transmission Unit
   - Throughput
   - Link Layer
+  - 노르딕
+  - 노르딕 펌웨어 개발
+  - nRF52
+  - 저전력 블루투스
+  - Data rate
+  - 최대 데이터 전송률
 toc: true
 toc_sticky: true
 ---

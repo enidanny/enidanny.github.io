@@ -6,6 +6,9 @@ tags:
   - Google
   - Adsense
   - Payment
+  - 구글 애드센스
+  - 구글 애드센스 수익
+  - 블로그 수익 창출
 toc: true
 toc_sticky: true
 ---

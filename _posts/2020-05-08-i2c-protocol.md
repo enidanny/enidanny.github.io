@@ -5,6 +5,8 @@ categories:
 tags:
   - serial communication
   - I2C
+  - 시리얼 통신
+  - I2C 제어
 toc: true
 toc_sticky: true
 ---

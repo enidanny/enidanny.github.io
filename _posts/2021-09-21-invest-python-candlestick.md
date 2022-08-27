@@ -8,6 +8,10 @@ tags:
   - OHLC
   - Python
   - Stock
+  - 데이터 분석
+  - 캔들차트
+  - 파이썬 데이터 분석
+  - 파이썬 주식 분석
 toc: true
 toc_sticky: true
 ---

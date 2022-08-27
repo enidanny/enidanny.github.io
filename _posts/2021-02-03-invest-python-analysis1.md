@@ -7,6 +7,11 @@ tags:
   - OHLC
   - Python
   - Stock
+  - 데이터 분석
+  - 파이썬 주식 분석
+  - 파이썬 증권 분석
+  - 캔들차트
+  - 이동평균
 toc: true
 toc_sticky: true
 ---

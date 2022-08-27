@@ -7,6 +7,8 @@ tags:
   - Periodic Advertising
   - Channel Classification
   - Connection Subrating
+  - 블루투스 5.3
+  - 저전력 블루투스
 toc: true
 toc_sticky: true
 ---

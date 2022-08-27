@@ -7,6 +7,10 @@ tags:
   - nordic
   - nRF21540
   - FEM
+  - 저전력 블루투스
+  - 노르딕
+  - 프론트 엔드 모듈
+  - RF 증폭기
 toc: true
 toc_sticky: true
 ---

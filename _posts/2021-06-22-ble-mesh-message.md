@@ -6,6 +6,9 @@ tags:
   - mesh network
   - advertising bearer
   - network PDU
+  - 메시 네트워크
+  - 블루투스 메시
+  - 저전력 블루투스
 toc: true
 toc_sticky: true
 ---

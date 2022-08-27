@@ -6,6 +6,9 @@ tags:
   - Direction Finding
   - nRF528XX
   - nRF5340
+  - 노르딕
+  - 노르딕 펌웨어 개발
+  - 저전력 블루투스
 toc: true
 toc_sticky: true
 ---

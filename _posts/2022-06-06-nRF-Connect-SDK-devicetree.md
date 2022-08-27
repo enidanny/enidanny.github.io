@@ -5,6 +5,8 @@ categories:
 tags:
   - NCS
   - devicetree
+  - 노르딕
+  - 노르딕 펌웨어 개발
 toc: true
 toc_sticky: true
 ---

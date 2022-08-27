@@ -6,6 +6,9 @@ tags:
   - nRF52840
   - UART
   - UARTE
+  - 노르딕
+  - 노르딕 펌웨어 개발
+  - 시리얼 통신
 toc: true
 toc_sticky: true
 ---

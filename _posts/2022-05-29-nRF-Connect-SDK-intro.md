@@ -7,6 +7,11 @@ tags:
   - RTOS
   - Zephyr
   - Nordic semiconductor
+  - 노르딕
+  - 제퍼
+  - 펌웨어
+  - 노르딕 펌웨어 개발
+  - 실시간 운영체제
 toc: true
 toc_sticky: true
 ---

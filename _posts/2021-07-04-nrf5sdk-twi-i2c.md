@@ -4,8 +4,12 @@ categories:
   - nRF5 SDK
 tags:
   - nRF52840
-  - UART
-  - UARTE
+  - TWI
+  - I2C
+  - I2C 제어
+  - 노르딕 펌웨어 개발
+  - 노르딕
+  - 저전력 블루투스
 toc: true
 toc_sticky: true
 ---

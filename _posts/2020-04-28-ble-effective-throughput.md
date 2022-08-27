@@ -7,6 +7,10 @@ tags:
   - effective throughput
   - connection
   - LE packet
+  - 최대 데이터 전송률
+  - 무선 통신 속도
+  - 저전력 블루투스
+  - 1Mbps
 toc: true
 toc_sticky: true
 ---

@@ -5,6 +5,9 @@ categories:
 tags:
   - nRF Sniffer
   - Wireshark
+  - nRF 스니퍼
+  - 와이어샤크
+  - 노르딕 스니퍼
 toc: true
 toc_sticky: true
 ---
