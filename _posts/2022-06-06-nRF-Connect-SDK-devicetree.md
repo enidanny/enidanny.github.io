@@ -1,5 +1,5 @@
 ---
-title: "NCS (2) - Devicetree 구조 및 특징 / Devicetree Structure and Features 🌳"
+title: "NCS (2) - Devicetree 구조 및 특징 / Devicetree Structure and Features"
 categories:
   - nRF Connect SDK
 tags:
@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-## 2. Devicetree 구조 및 특징 / Devicetree Structure and Features
+## 2. Devicetree 구조 및 특징 / Devicetree Structure and Features 🌳
 
 <span style="color:#209090"><b>nRF Connect SDK</b></span> **(이하, `NCS`)** 에서 제어하고자 하는 하드웨어 장치에 접근하기 위해 위해 사용. 쉽게 말해 `GPIO` 같은 핀을 설정하는 방법의 일종인데, 일반적으로는 이러한 정보는 단순히 헤더 (`header`) 파일 (`.h`)상에서 정의하고 관리했으나, `NCS` 에서는 `Devicetree` 를 이용한다.
 

@@ -1,0 +1,14 @@
+---
+title: "nRF5 SDK (14) - git 이용해서 nRF5 SDK 버전관리하기"
+categories:
+  - nRF5 SDK
+tags:
+  - git / VCS
+toc: true
+toc_sticky: true
+---
+
+
+펌웨어 프로그래밍 관련 bare-metal / RTOS 작성했던 내용 추합해서 포스팅할 것
+
+
