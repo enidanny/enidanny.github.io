@@ -7,6 +7,10 @@ tags:
   - BMP581
   - I2C
   - Bosch Sensortec
+  - 디지털 기압계
+  - 기압계
+  - 바로미터
+  - 기압 센서
 toc: true
 ---
 

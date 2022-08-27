@@ -8,6 +8,10 @@ tags:
   - RTOS
   - nRF5 SDK
   - nRF Connect SDK
+  - 펌웨어
+  - 실시간 운영체제
+  - 노르딕 세미컨덕터
+  - 저전력 블루투스
 toc: true
 ---
 
