@@ -1,0 +1,5 @@
+_2022-xx-xx-nRF-Connect-SDK-provisioning-process.txt
+
+아래 링크에 provisioning 과정이 꽤 잘 설명되어 있음
+
+https://developer.nordicsemi.com/nRF_Connect_SDK/doc/2.0.2/zephyr/connectivity/bluetooth/api/mesh/provisioning.html#the-provisioning-process
