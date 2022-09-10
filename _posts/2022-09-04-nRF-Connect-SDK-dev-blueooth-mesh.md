@@ -17,9 +17,9 @@ toc_sticky: true
 
 ## 4. nRF Connect SDK 이용해서 블루투스 메시 개발하기 / Supported Bluetooth mesh features
 
-이전에 `nRF5 SDK for Mesh` 를 이용해서 블루투스 메시 기능을 개발했던 적이 있었는데, `nRF5 SDK` 라인은 더 이상 노르덱 (`nordic`)에서 기능상의 업데이트를 진행하고 있지 않기도 하고, `nRF Connect SDK` 개발에 익숙해질 필요도 있을 것 같아서, 다시 메시 프로토콜 관련 공부를 해보려고 한다.
+이전에 `nRF5 SDK for Mesh` 를 이용해서 블루투스 메시 기능을 개발했던 적이 있었는데, `nRF5 SDK` 라인은 더 이상 노르딕 (`nordic`)에서 기능상의 업데이트를 진행하고 있지 않기도 하고... `nRF Connect SDK` 개발에 익숙해질 필요도 있을 것 같아서, 겸사겸사 메시 프로토콜 관련 공부를 다시 좀 해보려고 한다.
 
->이전에 블루투스 메시 (`Bluetooth mesh`) 관련해서 정리했던 내용이 ~~안타깝게도~~ 하나도 기억이 나질 않아서, 기본적으로 알아두어야 하는 개념부터 천천히 다시 정리해보려고 한다.
+>이전에 블루투스 메시 (`Bluetooth mesh`) 관련해서 정리했던 내용이 ~~안타깝게도~~ 하나도 기억이 나질 않아서, 기본적으로 알아두어야 하는 개념부터 다시 정리하는 중
 
 * version info: `nRF Connect SDK v2.0.2`
 
@@ -85,7 +85,7 @@ toc_sticky: true
 
 >`Proxy` 서버로 동작 가능한 기기들을 통하면, `BLE` 프로토콜만 지원되는 기기에서도 메시 네트워크에 접근이 가능하다는 것.
 
-또한, `foundation models` 의 경우 실제로 어떤 식으로 구현이 되는 것인지는 좀 더 살펴봐야겠는데, 기본적으로 4개의 (**`Configuration Server/Client, Health Server/Client`**) foundation model 이 있는데, 네트워크 관리자 (**`아마도 보편적으로는 provisioner 역할을 하는 장치가 담당할 것으로 보임`**)가 메시 노드를 관리하고 점검하기 위해 사용되는 model (**`일단은 GATT services 정도로 생각하고 넘어가자`**) 이라고 한다.
+또한, `foundation models` 의 경우 실제로 어떤 식으로 구현이 되는 것인지는 좀 더 살펴봐야겠는데, 기본적으로 4개의 (**`Configuration Server/Client, Health Server/Client`**) foundation model 이 있는데, 네트워크 관리자 (**`아마도 보편적으로는 provisioner 역할을 하는 장치가 담당할 것으로 보임`**)가 메시 노드를 관리하고 점검하기 위해 사용되는 `model` (여기서 `model` 은 **`일단은 GATT services 정도로 생각하고 넘어가자`**) 정도로 생각하면 될 것 같다.
 
 ---
 
