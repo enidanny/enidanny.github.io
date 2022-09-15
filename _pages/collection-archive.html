@@ -8,6 +8,9 @@ author_profile: true
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
+  <a href="https://hits.seeyoufarm.com">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fenidanny.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  </a>
   {% unless collection.output == false or collection.label == "posts" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
