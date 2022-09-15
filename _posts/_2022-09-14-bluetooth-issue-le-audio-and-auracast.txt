@@ -1,0 +1,42 @@
+---
+title: "BLE (17) - LE Audio 와 Auracast 혁신이 온다"
+categories:
+  - BLE
+tags:
+  - Bluetooth
+  - Bluetooth 5.2
+  - Bluetooth LE
+  - 블루투스
+  - 블루투스 5.2
+  - LE Audio
+  - LE 오디오
+  - Auracast
+toc: true
+toc_sticky: true
+---
+
+## 17. Titles
+
+### 17.1 LE Audio Overview
+
+무선 오디오 이야기를 했던게 벌써 작년 8월
+
+https://www.somagnews.com/bluetooth-le-audio-technology-faster-and-more-efficient/
+
+https://enidanny.github.io/ble/ble-bluetooth-52/#143-wireless-audio-application
+
+Bluetooth 5.2 에서 핵심으로 나온 것 중 하나가 바로 이 LE Audio 였는데,
+어떻게 되었나 궁금해서 최근에 찾아봄.
+
+LE Audio 핵심은 결국 저전력 & 복수의 싱크노드로 보낼 수 있는 능력이 핵심이었음.
+
+
+### 17.2 그런데 Aura cast
+
+종종 보이는 오라캐스트 란 무엇일까? 심심치않게 기사가 보이고 있음
+
+https://www.forbes.com/sites/marksparrow/2022/06/08/bluetooth-auracast-will-be-able-to-broadcast-sound-to-unlimited-users/?sh=76bb5440b92f
+
+https://www.androidauthority.com/bluetooth-sig-auracast-3173964/
+
+https://www.digitaltrends.com/home-theater/bluetooth-auracast-le-audio-lc3-codec/

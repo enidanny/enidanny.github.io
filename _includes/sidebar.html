@@ -2,6 +2,11 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
+    <div style="text-align: center;">
+        <a href="http://hits.dwyl.com/enidanny.github.io" target="_blank">
+          <img src="http://hits.dwyl.com/enidannygithubio.svg">
+        </a>
+    </div>
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
