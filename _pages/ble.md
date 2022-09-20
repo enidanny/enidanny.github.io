@@ -2,6 +2,7 @@
 title: Bluetooth Low Energy
 layout: single
 permalink: /ble/
+gallery_path: "assets/image"
 author_profile: true
 toc_ads: true
 ---
