@@ -41,3 +41,9 @@ https://im-wali.github.io/githubpage/add-search/#1-algolia
 
 여기 블로그 보면서 따라해보는것으로 시작. 아무래도 참고한 포스트는 2021년 3월에 작성된 글이라
 지금하고 algolia 홈페이지 UI 나 설정이 꽤 다른 부분이 있다. (근데 보면서 대충 따라하면 할만함)
+
+근데 이것만으로는.. 안되는 데...? 결정적으로 검색이 따로 안된다...?
+
+몇 개를 더 찾아보고나서야 ...
+
+https://xinfolab.github.io/blog/blog-maker-4/
