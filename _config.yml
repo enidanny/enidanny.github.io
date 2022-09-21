@@ -86,6 +86,7 @@ author:
   avatar           : "/assets/images/my-avatar.png"
   location         : "South Korea"
   email            : "daewoong0102@naver.com"
+  github           : "https://github.com/enidanny/enidanny.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
