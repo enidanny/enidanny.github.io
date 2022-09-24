@@ -46,6 +46,7 @@ sidebar-category:
     - title: "📁 Daily Life"
       url: /Blog/
       category: "Blog"
+      
     - title: "📁 Readings"
       url: /BOOK REVIEW/
       category: "BOOK REVIEW"
