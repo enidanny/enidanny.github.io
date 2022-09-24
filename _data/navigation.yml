@@ -10,5 +10,45 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+# main links
+sidebar-category:
+  - title: "BLUETOOTH"
+    children:
+    - title: "📁 BLE"
+      url: /ble/
+      category: "BLE"
+
+    - title: "📁 nRF5 SDK"
+      url: /nrf5sdk/
+      category: "nRF5 SDK"
+
+    - title: "📁 nRF Connect SDK"
+      url: /nRF Connect SDK/
+      category: "nRF Connect SDK"
+  
+  - title: "DEV. STUDY"
+    children:
+    - title: "📁 Github Blog"
+      url: /Github Blog/
+      category: "Github Blog"
+
+    - title: "📁 IoT"
+      url: /iot/
+      category: "IoT"
+
+    - title: "📁 Investing"
+      url: /INVESTING/
+      category: "INVESTING"
+
+  - title: "HOBBIES"
+    children:
+    - title: "📁 Daily Life"
+      url: /Blog/
+      category: "Blog"
+    - title: "📁 Readings"
+      url: /BOOK REVIEW/
+      category: "BOOK REVIEW"
+
 #  - title: "Posts"
 #    url: /posts/

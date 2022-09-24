@@ -4,6 +4,8 @@ layout: single
 permalink: /about/
 author_profile: true
 toc_ads : true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 <figure style="width: 100%">

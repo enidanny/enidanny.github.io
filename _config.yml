@@ -272,6 +272,8 @@ defaults:
       share: true
       related: true
       toc_ads: true
+      sidebar:
+        nav: "sidebar-category"
       toc_sticky: true
   
   # _pages
@@ -284,4 +286,6 @@ defaults:
       read_time: false
       comments: false
       share: true
-      related: false
+      related: true
+      sidebar:
+        nav: "sidebar-category"
