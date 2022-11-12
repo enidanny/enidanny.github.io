@@ -85,7 +85,7 @@ author:
   bio              : "Let's Live an Ordinary Life with the Extraordinary Talents !!"
   avatar           : "/assets/images/my-avatar.png"
   location         : "South Korea"
-  email            : "daewoong0102@naver.com"
+  email            : # "daewoong0102@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -102,9 +102,9 @@ author:
     - label: "Emojipedia"
       icon: "fab fa-fw fa-instagram"
       url: "https://emojipedia.org/"
-    - label: "Blog"
-      icon: "fas fa-fw fa-link"
-      url: "https://blog.naver.com/daewoong0102"
+    #- label: "Blog"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://blog.naver.com/daewoong0102"
 
 # Site Footer
 footer:
