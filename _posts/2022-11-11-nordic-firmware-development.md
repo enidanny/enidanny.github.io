@@ -30,6 +30,7 @@ toc_sticky: true
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ble-dev-routine-fig3.png" alt="">
+  <figcaption>출처: https://software-dl.ti.com/simplelink/esd/simplelink_cc13x0_sdk/2.20.00.38/exports/docs/ti154stack/html/ti154stack/frequency-hopping-mode.html</figcaption>
 </figure>
 
 다른 회사 BLE 칩은 개발 경험이 없어서 잘 모르겠으나... 일단, 노르딕 사 제품의 경우 기능 테스트를 위한 예제가 잘 구성되어 있고, 개발 문서도 꽤 상세하게 정리되어있다. 또, 찾아보면 BLE 표준 기술 관련해서 정리된 `white paper`도 꽤 있는 편이고, 관련 개발자들에게 질문을 남길 수 있는 **[전용 사이트](https://devzone.nordicsemi.com)**도 있어서 여러모로 BLE 응용 프로그램을 개발에 용이하다는 생각이다.
@@ -56,6 +57,7 @@ toc_sticky: true
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ble-dev-routine-fig1.png" alt="">
+  <figcaption>출처: https://devzone.nordicsemi.com/power/w/opp</figcaption>
 </figure>
 
 ---
