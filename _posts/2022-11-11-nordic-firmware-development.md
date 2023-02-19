@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 ---
 
-## 17. 노르딕 (nordic semiconductor) 펌웨어 개발 루틴
+## 17. 노르딕 (nordic semiconductor) 펌웨어 개발 루틴 🚋
 
 필자의 경우 현재 일하는 직장에서 노르딕 (`nordic semiconductor`)사 제품 (e.g. `nRF52840 SoC`)을 이용해 저전력 블루투스 펌웨어를 개발하고 제품화하는 일을 하고있다. 노르딕 제품 이외에도 ST (`ST Microelectronics`)사 혹은 다이얼로그 (`Dialog`)사 제품 BLE 칩이 가장 많이 사용되는 것으로 알고 있다.
 
