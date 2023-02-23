@@ -25,15 +25,15 @@ toc_sticky: true
 
 | **티커 (Ticker)** | **기업명 (Name)** | | **섹터 (Sector)** | **배당률 (%)** | **배당락일 (Month)** |
 | --- | --- | --- | --- | --- | --- |
-| **ABBV** | Abbvie | | 헬스케어 | 3.9 | **1, 4 , 7, 10** |
-| **ABM** | ABM Industries | | 산업재 | 1.8 | **1, 4 , 7, 10** |
-| **ABT** | Abbott Laboratories | | 헬스케어 | 1.9 | **1, 4 , 7, 10** |
+| **ABBV** | Abbvie | | 헬스케어 | 3.9 | **1, 4, 7, 10** |
+| **ABM** | ABM Industries | | 산업재 | 1.8 | **1, 4, 7, 10** |
+| **ABT** | Abbott Laboratories | | 헬스케어 | 1.9 | **1, 4, 7, 10** |
 | **AWR** | American States Water | | 유틸리티 | 1.7 | **2, 5, 8, 11** |
 | **BDX** | Becton, Dickinson And Co. | | 헬스케어 | 1.5 | **3, 6, 9, 12** |
 | **BKH** | Black Hills Corporation | | 유틸리티 | 3.9 | **3, 6, 9, 12** |
 | **CBSH** | Commerce Bancshares | | 금융 | 1.6 | **3, 6, 9, 12** |
 | **CINF** | Cincinnati Financial Corp. | | 금융 | 2.4 | **3, 6, 9, 12** |
-| **CL** | Colgate-Palmolive | | 경기방어주 | 2.6 | **1, 4 , 7, 10** |
+| **CL** | Colgate-Palmolive | | 경기방어주 | 2.6 | **1, 4, 7, 10** |
 | **CWT** | California Water Service Group | | 유틸리티 | 1.7 | **2, 5, 8, 11** |
 | **DOV** | Dover | | 산업재 | 1.3 | **2, 5, 8, 11** |
 | **EMR** | Emerson Electric | | 산업재 | 2.4 | **2, 5, 8, 11** |
@@ -43,14 +43,14 @@ toc_sticky: true
 | **GPC** | Genuine Parts | | 경기민감주  | 2.1 | **3, 6, 9, 12** |
 | **GRC** | Gorman-Rupp | | 산업재 | 2.5 | **2, 5, 8, 11** |
 | **GWW** | W.W. Grainger | | 산업재 | 1.0 | **2, 5, 8, 11** |
-| **HRL** | Hormel Foods | | 산업재 | 2.4 | **1, 4 , 7, 10** |
+| **HRL** | Hormel Foods | | 산업재 | 2.4 | **1, 4, 7, 10** |
 | **ITW** | illinois Tool Works | | 경기방어주 | 2.2 | **3, 6, 9, 12** |
 | **JNJ** | Johnson & Johnson | | 헬스케어 | 2.8 | **2, 5, 8, 11** |
 | **KMB** | Kimberly-Clark | | 경기방어주 | 3.7 | **3, 6, 9, 12** |
 | **KO** | Coca-Cola | | 경기방어주 | 3.0 | **3, 6, 9, 12** |
 | **LANC** | Lancaster Colony | | 경기방어주 | 1.8 | **3, 6, 9, 12** |
 | **LEG** | Leggett & Platt | | 경기민감주 | 5.2 | **3, 6, 9, 12** |
-| **LOW** | Lowe's Cos. | | 경기민감주 | 2.0 | **1, 4 , 7, 10** |
+| **LOW** | Lowe's Cos. | | 경기민감주 | 2.0 | **1, 4, 7, 10** |
 | **MMM** | 3M | | 산업재 | 5.3 | **2, 5, 8, 11** |
 | **MO** | Altria Group | | 경기방어주 | 8.0 | **3, 6, 9, 12** |
 | **MSA** | MSA Safety | | 산업재 | 1.3 | **2, 5, 8, 11** |
@@ -58,9 +58,9 @@ toc_sticky: true
 | **NDSN** | Nordson | | 산업재 | 1.1 | **2, 5, 8, 11** |
 | **NFG** | National Fuel Gas | | 에너지 | 3.2 | **3, 6, 9, 12** |
 | **NUE** | Nucor Corp. | | 원자재 | 1.2 | **3, 6, 9, 12** |
-| **NWN** | Northwest Natural Holding | | 유틸리티 | 4.0 | **1, 4 , 7, 10** |
+| **NWN** | Northwest Natural Holding | | 유틸리티 | 4.0 | **1, 4, 7, 10** |
 | **PEP** | PepsiCo | | 경기방어주 | 2.9 | **3, 6, 9, 12** |
-| **PG** | Procter & Gamble | | 경기방어주 | 2.6 | **1, 4 , 7, 10** |
+| **PG** | Procter & Gamble | | 경기방어주 | 2.6 | **1, 4, 7, 10** |
 | **PPG** | PPG Industries | | 원자재 | 2.0 | **2, 5, 8, 11** |
 | **PH** | Parker-Hannifin | | 산업재 | 1.5 | **2, 5, 8, 11** |
 | **SCL** | Stepan | | 원자재 | 1.3 | **2, 5, 8, 11** |
@@ -70,8 +70,8 @@ toc_sticky: true
 | **TGT** | Target Corp. | | 경기방어주 | 2.5 | **2, 5, 8, 11** |
 | **TNC** | Tennant Co. | | 산업재 | 1.5 | **2, 5, 8, 11** |
 | **TR** | Tootsie Roll Industries | | 경기방어주 | 0.8 | **3, 6, 9, 12** |
-| **SYY** | Sysco Corp. | | 경기방어주 | 2.5 | **1, 4 , 7, 10** |
-| **UVV** | Universal Corp. | | 경기방어주 | 5.9 | **1, 4 , 7, 10** |
+| **SYY** | Sysco Corp. | | 경기방어주 | 2.5 | **1, 4, 7, 10** |
+| **UVV** | Universal Corp. | | 경기방어주 | 5.9 | **1, 4, 7, 10** |
 | **VFC** | VF Corp. | | 경기민감주 | 4.6 | **3, 6, 9, 12** |
 
 >섹터 (`Sector`) 구분에 있어서 필수 소비재와 같이 경기 흐름에 비교적 둔감한 종목은 <span style="color:#A0a020"><b>경기방어주</b></span>로 표기했고, 임의소비재를 비롯해 경기 흐름에 따라 영향을 받는 쉬운 업종은 뭉뚱그려서 <span style="color:#A01040"><b>경기민감주</b></span>로 표시했다. 
