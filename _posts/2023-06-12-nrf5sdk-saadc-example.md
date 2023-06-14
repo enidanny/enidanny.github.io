@@ -4,7 +4,9 @@ categories:
   - nRF5 SDK
 tags:
   - nRF5SDK
+  - nRF52840-DK
   - SAADC  
+  - ADC
   - AC voltage
   - IoT
   - 교류 전압

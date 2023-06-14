@@ -1,13 +1,18 @@
 ---
 title: "IoT (12) - SPI 프로토콜"
 categories:
-  - nRF5 SDK
-tags:
-  - nRF5SDK
-  - SAADC  
-  - AC voltage
   - IoT
-  - 교류 전압
+tags:
+  - nRF5 SDK
+  - nRF52840-DK
+  - nordic SoC
+  - SPI
+  - 시리얼 통신
+  - I2C
+  - Protocol
+  - QSPI
+  - 4-Wire
+  - 3-Wire
 toc: true
 toc_sticky: true
 ---
